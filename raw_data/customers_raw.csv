@@ -1,0 +1,51 @@
+customer_id,name,email,city,signup_date
+1,Daniel Harper,daniel.harper@example.com,Port John,2022-11-03
+2,Brittany Wright,brittany.wright@example.com,East Amy,2023-06-15
+3,Joseph Thomas,joseph.thomas@example.com,Bryanfort,2023-10-10
+4,Justin Walker,justin.walker@example.com,East Richard,2023-03-27
+5,Michael Craig,michael.craig@example.com,Lopezfurt,
+6,Steven Foster,steven.foster@example.com,East Rachel,2022-09-12
+7,Robert Johnson,robert.johnson@example.com,Lake Brittany,2022-08-01
+8,,kyle.jordan@example.com,New Stacy,2023-12-23
+9,Joshua Ryan,joshua.ryan@example.com,South Charles,2024-01-11
+10,Kelly Ross,,East Susan,2023-01-27
+11,Karen Reynolds,karen.reynolds@example.com,North Alyssa,2023-11-16
+12,Rachel Garrison,rachel.garrison@example.com,Lake Kristin,2023-07-08
+13,Nathaniel Young,nathaniel.young@example.com,South Joseph,2023-02-12
+14,Andrew George,andrew.george@example.com,South William,2023-12-02
+15,Amanda Davis,amanda.davis@example.com,West Matthew,2022-10-19
+16,Jessica Mitchell,jessica.mitchell@example.com,West Heather,2024-03-08
+17,Amber Hayes,amber.hayes@example.com,North Courtney,2023-09-18
+18,Laura Moore,laura.moore@example.com,Port Deborah,2022-12-27
+19,Melissa Price,melissa.price@example.com,Port Joseph,2022-09-04
+20,Ryan Martinez,ryan.martinez@example.com,Port Samantha,2023-05-01
+21,Shawn Smith,shawn.smith@example.com,South Jennifer,2023-10-14
+22,Steven Foster,steven.foster@example.com,East Rachel,2022-09-12
+23,Amy Morris,amy.morris@example.com,New Gregory,2024-01-02
+24,Laura Moore,laura.moore@example.com,Port Deborah,2022-12-27
+25,Kelly Ross,,East Susan,2023-01-27
+26,Brian Lee,brian.lee@example.com,North Travis,2022-10-10
+27,Travis Adams,travis.adams@example.com,North Jeffrey,2024-01-21
+28,Nicholas Murphy,nicholas.murphy@example.com,Lake Kimberly,2023-07-11
+29,Christina Murray,christina.murray@example.com,Port Amanda,2024-03-17
+30,Nicholas Murphy,nicholas.murphy@example.com,Lake Kimberly,2023-07-11
+31,Amber Hayes,amber.hayes@example.com,North Courtney,2023-09-18
+32,Justin Walker,justin.walker@example.com,East Richard,2023-03-27
+33,Rachel Garrison,rachel.garrison@example.com,Lake Kristin,2023-07-08
+34,Joseph Thomas,joseph.thomas@example.com,Bryanfort,2023-10-10
+35,Amanda Davis,amanda.davis@example.com,West Matthew,2022-10-19
+36,Jessica Mitchell,jessica.mitchell@example.com,West Heather,2024-03-08
+37,Robert Johnson,robert.johnson@example.com,Lake Brittany,2022-08-01
+38,Daniel Harper,daniel.harper@example.com,Port John,2022-11-03
+39,Ryan Martinez,ryan.martinez@example.com,Port Samantha,2023-05-01
+40,Nathaniel Young,nathaniel.young@example.com,South Joseph,2023-02-12
+41,Christina Murray,christina.murray@example.com,Port Amanda,2024-03-17
+42,Brian Lee,brian.lee@example.com,North Travis,2022-10-10
+43,Nicholas Murphy,nicholas.murphy@example.com,Lake Kimberly,2023-07-11
+44,Melissa Price,melissa.price@example.com,Port Joseph,2022-09-04
+45,Andrew George,andrew.george@example.com,South William,2023-12-02
+46,Karen Reynolds,karen.reynolds@example.com,North Alyssa,2023-11-16
+47,Rachel Garrison,rachel.garrison@example.com,Lake Kristin,2023-07-08
+48,Laura Moore,laura.moore@example.com,Port Deborah,2022-12-27
+49,Kelly Ross,,East Susan,2023-01-27
+50,Brittany Wright,brittany.wright@example.com,East Amy,2023-06-15

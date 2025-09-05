@@ -1,0 +1,51 @@
+product_id,name,category,price
+1,Speaker,Electronics,349.99
+2,T-shirt,Clothing,25.00
+3,Blender,   electronics ,99.99
+4,Notebook,Books,12.99
+5,Jeans,Clothing,45.50
+6,Camera,Electronics,249.99
+7,Pencil,Books,1.50
+8,Hat,Clothing,
+9,Microwave,Electronics,199.00
+10,Keyboard,Electronics,89.99
+11,Teddy Bear,Toys,29.99
+12,Cereal,Groceries,6.49
+13,Booklight,books,15.99
+14,Drone,Electronics,599.99
+15,Shampoo,Groceries,9.99
+16,,Clothing,19.99
+17,Socks,Clothing,7.99
+18,Banana,Groceries,0.99
+19,Mousepad,Electronics,5.99
+20,Lego Set,TOYS,49.99
+21,Sandwich Maker,Electronics,129.99
+22,Apples,Groceries,3.99
+23,Basketball,Toys,22.99
+24,Charger,   electronics ,15.00
+25,Notebook,Books,12.99
+26,Bottle,Groceries,4.25
+27,Camera,Electronics,249.99
+28,Booklight,Books,15.99
+29,T-shirt,Clothing,25.00
+30,Shoes,Clothing,55.00
+31,Socks,Clothing,7.99
+32,Drone,Electronics,599.99
+33,Banana,Groceries,0.99
+34,Mousepad,Electronics,5.99
+35,Notebook,Books,12.99
+36,Apples,Groceries,3.99
+37,Keyboard,Electronics,89.99
+38,Pencil,Books,1.50
+39,Booklight,Books,
+40,Teddy Bear,Toys,29.99
+41,Lego Set,TOYS,49.99
+42,Shampoo,Groceries,9.99
+43,Basketball,Toys,22.99
+44,Sandwich Maker,Electronics,129.99
+45,Charger,Electronics,15.00
+46,Speaker,Electronics,349.99
+47,Mousepad,Electronics,5.99
+48,Cereal,Groceries,6.49
+49,Notebook,Books,12.99
+50,,Clothing,19.99
