@@ -1,6 +1,10 @@
 import pandas as pd
 import os
 
+
+# Email validation pattern
+email_regex = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
+
 df_customers = pd.read_csv("raw_data/customers_raw.csv")
 df_orders = pd.read_csv("raw_data/orders_raw.csv")
 df_products = pd.read_csv("raw_data/products_raw.csv")
@@ -18,6 +22,12 @@ df_products.dropna(inplace=True)
 # Standardize text: lowercase category, strip emails
 df_products['category'] = df_products['category'].str.strip().str.lower()
 df_customers['email'] = df_customers['email'].str.strip().str.lower()
+
+# Email validation - remove invalid emails
+initial_count = len(df_customers)
+df_customers = df_customers[df_customers['email'].str.match(email_regex, na=False)]
+removed_count = initial_count - len(df_customers)
+print(f"Email validation: Removed {removed_count} invalid emails, kept {len(df_customers)} valid ones")
 
 #creating a date dataframe
 df_orders['order_date'] = pd.to_datetime(df_orders['order_date'])
